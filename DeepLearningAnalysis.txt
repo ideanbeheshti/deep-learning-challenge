@@ -1,0 +1,6 @@
+Explain the purpose of this analysis.
+-The purpose of this analysis was to evaluate and assess the best chance of success in gains through selections of applicants.
+
+We had to use the features in the provided data to establish a binary classifier which can predict whether applicants will be successful in capital gains if they are funded by Alphabet Soup.
+In the first model, we processed the data and dropped the "NAME" and "EIN" columns.The data was trained and tested by setting the epochs to 100and then evaluated the model to determine its accuracy.
+For the latter half of the assignment, we wanted to achieve a target predictve acuracy higher than 75%. The data was trained and tested with a different epoch number which showed a higher accuracy of 75%.
